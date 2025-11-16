@@ -1,0 +1,10 @@
+h2 {
+    color: yellow;
+    font-size: 4rem;
+ }
+
+ .skill {
+    color: var(--keycolo);
+    font-weight: var(--fontWeight);
+    text-transform: var(--textCase);
+}
